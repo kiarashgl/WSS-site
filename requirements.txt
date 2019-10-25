@@ -9,4 +9,4 @@ pytz==2017.3
 six==1.11.0
 sorl-thumbnail==12.4.1
 typing==3.6.2
-Werkzeug==0.12.2
+Werkzeug==0.15.3
