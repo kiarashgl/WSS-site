@@ -106,7 +106,7 @@ span{
 
 .countdown-labels div
 {
-    font-size: 0.85rem;
+    font-size: 0.5rem;
 }
 .countdown .number
 {
@@ -117,7 +117,7 @@ span{
 }
 @media (max-width: 350px) {
     .countdown .number {
-        font-size: 2.25rem;
+        font-size: 1.5rem;
     }
 }
 
@@ -202,4 +202,16 @@ span{
 
 .footer-social ul li a i{
     color: #fff;
+}
+
+#poster-reg
+{
+    background: white; 
+    border: none;
+    transition: all 0.25s;
+}
+
+#poster-reg:hover{
+    /* width: 300px; */
+    background: #61fdfe;
 }
